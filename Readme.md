@@ -7,3 +7,10 @@ ramas y Pull Requests.
 - Python
 - Git
 - GitHub
+
+## Ejemplo de ejecución
+
+Para ejecutar la aplicación:
+
+```python
+python main.py
